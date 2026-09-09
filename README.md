@@ -1,4 +1,14 @@
-## Hi there 👋
+### Hi, I'm Shakti Kumar 👋
+
+🎯 Aspiring Data Engineer | Data Analytics Enthusiast
+
+🔧 Skills: Python, SQL, Power BI, Pandas, NumPy
+
+📚 Currently learning: Data pipelines, ETL concepts
+
+🏆 Certifications: McKinsey.org Forward Program, HP LIFE - Data Science & Analytics
+
+📫 Connect: [https://www.linkedin.com/in/shakti-kumar1]
 
 <!--
 **shaktikumar943110-boop/shaktikumar943110-boop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
